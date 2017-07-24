@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/*
+    CSS Reset
+    Author : Wangzhi
+    Date : 2016-09-09
+    Veision : 2.0.0
+*/
+html{font-family:"Helvetica Neue",Helvetica,sans-serif;-webkit-text-size-adjust:100%;-webkit-tap-hightlight-color:transparent;-webkit-user-select:none}body{overflow-x:hidden;-webkit-overflow-scrolling:touch;font-size:12px}*{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box}a{display:block;width:100%;color:#333;text-decoration:none}img{border:0;display:block;width:100%;vertical-align:middle}input{-webkit-appearance:none;outline:0;border:0}.fl{float:left}.fr{float:right}.clearfix:after{content:"";display:block;width:100%;height:0;clear:both}li,ol{list-style:none}.sprite-icon{display:inline-block;background:url("../images/jd-sprites.png") no-repeat;background-size:200px 200px}a.line,.topLine{position:relative}a.line:after,.topLine:after{content:'';position:absolute;right:0;top:0}a.line:after{height:100%;width:1px;border-right:1px solid #ccc;-webkit-transform:scaleX(.5);-moz-transform:scaleX(.5);-o-transform:scaleX(.5);-ms-transform:scaleX(.5);transform:scaleX(.5)}.topLine:after{height:1px;width:100%;border-top:1px solid #ccc;-webkit-transform:scaleY(.5);-moz-transform:scaleY(.5);-o-transform:scaleY(.5);-ms-transform:scaleY(.5);transform:scaleY(.5)}
